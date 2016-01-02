@@ -1,6 +1,6 @@
 name: Chris Marina
 favicon: null
-layout_spectrum: 0.6105600211303681
+layout_spectrum: 1
 typography_spectrum: 0.8116713010240346
 title: ++ music is the universal language ++
 cta:
@@ -22,7 +22,7 @@ color:
     - '#000000'
     - '#1c1c00'
     - '#101010'
-  brandStrength: 0.625
+  brandStrength: 0.5
   lightness: 0.4435452241450548
   saturation: 0.03226439328864217
   rhythmicContrast: 0.5573051555547863
