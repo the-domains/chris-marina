@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[++ music is the universal language ++]]></title>
+        <description><![CDATA[++ music is the universal language ++]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 02 Jan 2016 12:45:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[++ nu2soul house | mixtape 1553 ++]]></title>
+            <description><![CDATA[<article><h1>++ nu2soul house | mixtape 1553 ++</h1><p>null</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/561238730f34f36aa995c1a0eb9f7ccb72ea132a.jpg"></article>]]></description>
+            <link>undefinednu2soul-house-or-mixtape-1553/index.html</link>
+            <guid isPermaLink="false">85e3a283-015f-49f6-b08e-7f10ed3f9cfc</guid>
+            <pubDate>Sat, 02 Jan 2016 12:45:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
