@@ -1,8 +1,5 @@
-typography_spectrum: 0.8116713010240346
-opengraph:
-  image: null
-  type: null
-  appId: null
+title: ++ music is the universal language ++
+purpose: []
 collections:
   - index:
       path: /
@@ -15,9 +12,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.74942
-title: ++ music is the universal language ++
-purpose: []
 color:
   saturation: 0.03226439328864217
   brandStrength: 0.4784946
@@ -33,9 +27,15 @@ cta:
   bucket: null
   version: null
   domain: null
-favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
 name: Chris Marina
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.8116713010240346
+layout_spectrum: 0.9605735
