@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.03226439328864217
+  saturation: 0
   brandStrength: 0.4784946
-  rhythmicContrast: 0.5573051555547863
+  lightness: 0.4435452
   brandColors:
     - '#FFFFFF'
     - '#1D1D1B'
     - '#5C5C5C'
     - '#929292'
     - '#C7C7C7'
-  lightness: 0.4435452241450548
+  rhythmicContrast: 0.5573052
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Chris Marina
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.8116713010240346
+typography_spectrum: 0.3046595
 layout_spectrum: 0.9605735
