@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[++ music is the universal language ++]]></title>
         <description><![CDATA[++ music is the universal language ++]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chris-marina/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 06:10:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 06:10:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chris-marina/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[++ nu2soul house | mixtape 1553 ++]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45f4ef57-986b-457d-90a0-98b0b4aa366d.jpg">]]></description>
+            <link>https://thegrid.ai/chris-marina/nu2soul-house-or-mixtape-1553/index.html</link>
+            <guid isPermaLink="false">85e3a283-015f-49f6-b08e-7f10ed3f9cfc</guid>
+            <pubDate>Sun, 24 Apr 2016 06:10:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Get Down On It › Chris Marina]]></title>
             <description><![CDATA[<article><h1>Get Down On It › Chris Marina</h1><p>Kool & The Gang have been and still is one of my favorite bands. That's one on the major reasons, why I'm so happy about this release. With the support from you, it will become a summer hit 2016! " Get Down On It" by Chris Marina on Stanley Steel Beats http://chrismarina.com/wp-content/uploads/2016/04/Chris_Marina-Get_Down_On_It-Stanley_Steel_Beats_preview.mp3 Get your copy at trackitdown and play it loud!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37ec0390ebf9473efc085e83053cfd3f712848eb.jpg"></article>]]></description>
