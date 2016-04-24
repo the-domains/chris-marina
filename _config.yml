@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Chris Marina
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.8494624
-layout_spectrum: 0.7867383
+layout_spectrum: 0
